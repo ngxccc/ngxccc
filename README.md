@@ -15,9 +15,10 @@
 </div> -->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ngxccc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=ngxccc&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ngxccc&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <!-- <img src="https://github-readme-stats-fast.vercel.app/api?username=ngxccc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /> -->
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ngxccc&layout=compact&theme=tokyonight" height="150" alt="most used lang"  />
+  <img src="https://streak-stats.demolab.com?user=ngxccc&theme=tokyonight&border_radius=10&date_format=n%2Fj%5B%2FY%5D" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ngxccc&radius=16&theme=tokyo-night&area=true&hide_title=true" height="300" alt="activity-graph graph"  />
 </div>
 
 ## My Technologies
