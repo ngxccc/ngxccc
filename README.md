@@ -1,32 +1,37 @@
-# Hi 👋! My name is Ngoc and I'm a FE Web Developer
-
 <div align="center">
+
+  <p align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Hi%F0%9F%91%8B!+I'm+Ngoc;I'm+a+Frontend+Web+Developer;I+Love+Coding+and+Design" alt="Typing SVG" />
+    </a>
+  </p>
+
+  <p align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=5000&color=F75C7E&center=true&vCenter=true&width=650&lines=%22Code+like+you're+writing+poetry.%22" alt="Typing SVG" />
+    </a>
+  </p>
+  
+  <h3>🚀 My Main Tech Stack</h3>
+  
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind&theme=dark" height="50" alt="frontend" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=express&theme=dark" height="50" alt="backend" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" height="50" alt="database" />
+  
+  <h3>🛠️ Experienced With & Tools</h3>
+  
+  <img src="https://skillicons.dev/icons?i=cpp,py,cs,php&theme=dark" height="50" alt="backend" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=git,figma,postman&theme=dark" height="50" alt="tools" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=neovim,vscode&theme=dark" height="50" alt="text editors" />
+  
+  <h3>🖥️ Operating System</h3>
+  <img src="https://skillicons.dev/icons?i=windows,linux&theme=dark" height="50" alt="text editors" />
+
+  <br/>
+  
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ngxccc&layout=compact&theme=tokyonight" height="150" alt="most used lang"  />
 </div>
-
-## My Technologies
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="js logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="ts logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cpp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-</div>
-
-<!-- https://github.com/devicons/devicon/blob/master/icons -->
-<!-- https://github.com/LitoMore/simple-icons-cdn -->
-<!-- https://github.com/badges/shields -->
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<!-- https://github.com/rashidul738/github-readme-streak-stats -->
