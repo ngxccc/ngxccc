@@ -20,7 +20,7 @@
   <br/>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" height="50" alt="database" />
   
-  <h3>🛠️ Experienced With & Tools</h3>
+  <h3>🛠️ Basic Knowledge & Tools</h3>
   
   <img src="https://skillicons.dev/icons?i=cpp,py,cs,php&theme=dark" height="50" alt="backend" />
   <br/>
