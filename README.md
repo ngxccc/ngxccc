@@ -29,7 +29,7 @@
   <img src="https://skillicons.dev/icons?i=neovim,vscode&theme=dark" height="50" alt="text editors" />
   
   <h3>🖥️ Operating System</h3>
-  <img src="https://skillicons.dev/icons?i=windows,linux&theme=dark" height="50" alt="text editors" />
+  <img src="https://skillicons.dev/icons?i=windows,arch&theme=dark" height="50" alt="text editors" />
 
   <br/>
   
