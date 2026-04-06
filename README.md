@@ -18,7 +18,7 @@
   <br/>
   <img src="https://skillicons.dev/icons?i=express&theme=dark" height="50" alt="backend" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" height="50" alt="database" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark" height="50" alt="database" />
   
   <h3>🛠️ Basic Knowledge & Tools</h3>
   
