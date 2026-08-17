@@ -5,7 +5,7 @@
     applications.
   </p>
   <p align="center">
-    <a href="https://ngxc.vercel.app"
+    <a href="https://ngxccc.github.io"
       ><img
         src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logoColor=white"
     /></a>
