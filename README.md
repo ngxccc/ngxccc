@@ -13,9 +13,9 @@
       ><img
         src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
     /></a>
-    <a href="https://t.me/ngxccc"
+    <a href="https://linkedin.com/in/ngxc"
       ><img
-        src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"
+        src="https://img.shields.io/badge/LinkedIn-26A5E4?style=for-the-badge&logo=linkedin&logoColor=white"
     /></a>
   </p>
   <p align="center">
