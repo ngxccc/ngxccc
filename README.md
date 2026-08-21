@@ -28,7 +28,7 @@
   <p align="center">
     <a href="https://github.com/ngxccc">
       <img
-        src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ngxccc&layout=compact&theme=transparent&hide_border=true&title_color=38bdf8&text_color=e2e8f0&icon_color=38bdf8&hide=html,css,md,mdx,javascript,powershell,shell,dockerfile&exclude_repo=my-second-brain,agent-skills-kit,engineered-skills,arch-dotfiles,wins-dotfiles,nixos-dotfiles"
+        src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ngxccc&layout=compact&theme=transparent&hide_border=true&title_color=38bdf8&text_color=e2e8f0&icon_color=38bdf8&hide=html,css,md,mdx,javascript,powershell,shell,dockerfile,astro&exclude_repo=my-second-brain,agent-skills-kit,engineered-skills,arch-dotfiles,wins-dotfiles,nixos-dotfiles,ngxccc.github.io"
         height="150"
         alt="most used lang"
       />
